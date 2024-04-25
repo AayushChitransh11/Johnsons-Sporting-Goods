@@ -1,1 +1,1 @@
-# JohnsonSportingGoods
+# JohnsonsSportingGoods
