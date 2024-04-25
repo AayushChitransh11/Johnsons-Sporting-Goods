@@ -1,0 +1,35 @@
+body,
+html {
+  height: 100vh !important;
+}
+.navbar a {
+  margin: 0px 5px 0px 5px;
+}
+.navbar a:hover {
+  color: #276450 !important;
+}
+.navbar button:hover {
+  color: #276450 !important;
+}
+footer {
+  padding: 25px 0px 25px 0px;
+  height: 120px;
+}
+#mainContainer {
+  min-height: calc(100vh - 120px) !important;
+}
+footer hr {
+  margin: 20px 0px 20px 0px;
+}
+.navbar-brand img {
+  margin: -5px;
+}
+.badge {
+  font-size: 12px !important;
+  margin-left: 10px;
+  padding: 4px 4px 4px 4px !important;
+  width: 28px !important;
+}
+a[href="/cart"] {
+  margin-right: -8.5px !important;
+}

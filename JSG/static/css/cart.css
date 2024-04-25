@@ -1,0 +1,30 @@
+h1 {
+  padding: 10px;
+}
+
+th,
+td {
+  text-align: left;
+}
+table img {
+  max-height: 2.5rem;
+  max-width: 2.5rem;
+  object-fit: contain;
+}
+#checkoutContainer {
+  max-width: 40rem;
+  background-color: #414346;
+  padding: 1.5rem;
+  border-radius: 2rem;
+}
+label {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+input,
+textarea {
+  padding: 0.2rem;
+  border-radius: 1rem;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem;
+}
